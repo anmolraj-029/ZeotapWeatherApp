@@ -1,6 +1,7 @@
 Overview:
 
 The Weather App is a web application that allows users to get real-time weather information for any city.
+
 The application fetches data from a weather API and displays the current weather conditions, including temperature, humidity, wind speed, and more.
 
 Features:
@@ -19,6 +20,7 @@ Navigate to the project directory: cd weather-app
 Install the dependencies: npm install 
 
 Start the server: npm start
+
 Open your browser and go to: http://localhost:3000
 
 Enter the name of a city in the search bar to get the weather information.
