@@ -13,7 +13,7 @@ HTML CSS Node.js Express.js
 
 Installation Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/anmolraj-029/ZeotapWeatherApp.git
 
 Navigate to the project directory: cd weather-app
 
@@ -21,7 +21,7 @@ Install the dependencies: npm install
 
 Start the server: npm start
 
-Open your browser and go to: http://localhost:3000
+Open your browser and go to: http://localhost:4500
 
 Enter the name of a city in the search bar to get the weather information.
 
